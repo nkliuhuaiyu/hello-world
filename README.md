@@ -1,2 +1,3 @@
 # hello-world
-first meet with github project
+Hi humans!
+Here is some changes to submit!
